@@ -1,2 +1,2 @@
-# ees-public
+# Excel Education Systems
 EES Public Repository
